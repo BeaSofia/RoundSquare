@@ -10,10 +10,12 @@ version = "1.0-SNAPSHOT"
 
 repositories {
     mavenCentral()
+    flatDir { dirs("libs") }
 }
 
 dependencies {
     testImplementation(kotlin("test-junit"))
+    implementation("pt.isel:CanvasLib-jvm:1.0.1")
 }
 
 tasks.test {
@@ -25,5 +27,4 @@ tasks.withType<KotlinCompile>() {
 }
 
 application {
-    mainClassName = "MainKt"
-}
+    mainClassName = "MainKt"}
