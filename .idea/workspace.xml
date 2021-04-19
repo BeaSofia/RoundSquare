@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13ec4916-ef72-4716-a51e-1b3638aa8873" name="Default Changelist" comment="..." />
+    <list default="true" id="02dbf343-1e09-43c8-b8b6-07be48ab2eaf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries-with-intellij-classes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/main.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,8 +24,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1rDfBoSaWrfvWdWWibRMX1U8yTY" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1rOi4vT8MO4gLmOUTcI0Jcyqxwa" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -28,77 +33,18 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\ASUS\Documents\Isel\2 Semestre\PG\RoundSquare\libs" />
-    </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="Trab1-RoundSquare.main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="MainKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.MainKt" />
-      </list>
-    </recent_temporary>
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ISEEEL/Progamação/Trabalhos/Trab1 - RoundSquare" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="13ec4916-ef72-4716-a51e-1b3638aa8873" name="Default Changelist" comment="" />
-      <created>1618515448193</created>
+      <changelist id="02dbf343-1e09-43c8-b8b6-07be48ab2eaf" name="Default Changelist" comment="" />
+      <created>1618853351817</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1618515448193</updated>
-      <workItem from="1618518173284" duration="1412000" />
-      <workItem from="1618520128320" duration="2231000" />
-      <workItem from="1618522629397" duration="974000" />
+      <updated>1618853351817</updated>
     </task>
-    <task id="LOCAL-00001" summary="...">
-      <created>1618523058132</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1618523058132</updated>
-    </task>
-    <task id="LOCAL-00002" summary="...">
-      <created>1618523307372</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1618523307372</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -110,10 +56,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="..." />
-    <option name="LAST_COMMIT_MESSAGE" value="..." />
   </component>
 </project>
